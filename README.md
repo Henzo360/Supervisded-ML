@@ -1,2 +1,2 @@
-# Supervisded-ML
+# Supervised-ML
 Regression model on two variables
